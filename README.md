@@ -3,8 +3,11 @@
 # Hey there! I am Faraz  <!-- ![Profile Visits](https://komarev.com/ghpvc/?username=SFarazH) -->
 <br />
 💻 Currently working on React, Django and Firebase
+
 👨‍🎓 Pursuing B.Tech in Computer Science
-🌱 Learning Node and DevOps
+
+🌱 Learning Node
+
 🚀 Aim to contribute to open-source projects
 
 <br />
