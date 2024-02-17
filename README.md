@@ -5,7 +5,7 @@
 
 
 
-💻 Currently working on React, Django and Firebase
+💻 Currently working in React, Django and Firebase
 
 👨‍🎓 Pursuing B.Tech in Computer Science
 
