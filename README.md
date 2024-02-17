@@ -41,8 +41,8 @@
 <br />
 
 ### 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=SFarazH&theme=radical&hide_border=false&include_all_commits=true&count_private=false) <br/>
-![](https://streak-stats.demolab.com/?user=SFarazH&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=SFarazH&theme=radical&hide_border=false&include_all_commits=true&count_private=false) <br/> <br/>
+![](https://streak-stats.demolab.com/?user=SFarazH&theme=radical&hide_border=false)<br/> <br/> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SFarazH&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
