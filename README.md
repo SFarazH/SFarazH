@@ -5,4 +5,4 @@
 - 📫 How to reach me 
     1. email- syedfarazhasan1@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SFarazH)](https://github.com/SFarazH/github-readme-stats)
+![Faraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=SFarazH&theme=dark&show_icons=true)
