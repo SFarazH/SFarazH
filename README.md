@@ -5,11 +5,9 @@
 
 
 
-💻 Currently working in React, Django and Firebase
+💻 Currently working in MERN!
 
-👨‍🎓 Pursuing B.Tech in Computer Science
-
-🌱 Learning Node
+👨‍🎓 B.Tech in CSE w/ Honors in Data Science
 
 🚀 Aim to contribute to open-source projects
 
